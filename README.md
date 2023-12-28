@@ -85,6 +85,16 @@ In this project, I played the role of a SOC analyst at a fictional organization 
 <img src="https://imgur.com/FMgI8fS.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
+<img src="https://imgur.com/4PSwmc4.png" height="80%" width="80%" alt="Defensive Security Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/DdRAbQk.png" height="80%" width="80%" alt="Defensive Security Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/TwQAoZ5.png" height="80%" width="80%" alt="Defensive Security Steps"/>
+<br />
+<br />
+
 
 </p>
 
