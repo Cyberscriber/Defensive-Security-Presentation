@@ -26,63 +26,63 @@ In this project, I played the role of a SOC analyst at a fictional organization 
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/Dz9nYM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Dz9nYM2.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://imgur.com/gEfOQnU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gEfOQnU.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://imgur.com/IGtmoGs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IGtmoGs.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-  <img src="https://imgur.com/BeTRvzI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/BeTRvzI.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/IGtmoGs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IGtmoGs.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/CLXkbIa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CLXkbIa.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/TtHV10K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TtHV10K.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/S577OET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/S577OET.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />  
-<img src="https://imgur.com/FJ8tmKh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FJ8tmKh.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/uIO7YY2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uIO7YY2.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/R44cv2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/R44cv2l.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/Q2vA9ba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Q2vA9ba.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/xtCKeMU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xtCKeMU.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/bwOQF2R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bwOQF2R.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/kfjK2Rc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kfjK2Rc.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/QVO4N9k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QVO4N9k.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/uoU3ktI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uoU3ktI.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/H60fC2P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/H60fC2P.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/FMgI8fS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FMgI8fS.png" height="80%" width="80%" alt="Defensive Security Steps"/>
 <br />
 <br />
 
