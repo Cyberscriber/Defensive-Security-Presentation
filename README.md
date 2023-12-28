@@ -19,7 +19,7 @@ In this project, I played the role of a SOC analyst at a fictional organization 
 <h2>Environments Used </h2>
 
 - <b>Windows OS</b>
-- <b>And Admin webpage</b>
+- <b>Admin webpage</b>
 - <b>Apache Web Server</b> 
 
 <h2>Program walk-through:</h2>
